@@ -3,7 +3,7 @@
 🚀 **Estudante de Eng. de Software | Frontend & UI/UX Design**  
 🇧🇷 Brasil
 
-Tenho 22 anos, estudo Engenharia de Software e adoro unir o visual com a programação para criar interfaces que as pessoas realmente gostem de usar! 
+Estudo Engenharia de Software e adoro unir o visual com a programação para criar interfaces que as pessoas realmente gostem de usar! 
 
 Atualmente, estou me aprofundando cada vez mais no mundo do Frontend, aprimorando meus conhecimentos em HTML, CSS, JavaScript e UI/UX Design e desenvolvendo projetos para colocar meus conhecimentos em prática para me tornar uma desenvolvedora Full Stack capaz de construir aplicações completas do início ao fim.
 
