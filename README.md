@@ -55,6 +55,6 @@ Frontend + UI/UX + JavaScript
               ↓
        React + TypeScript
               ↓
-    Backend + APIs + Banco de Dados
+    node.js + APIs + Banco de Dados
               ↓
         Full Stack Developer 🚀
