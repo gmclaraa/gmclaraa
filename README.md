@@ -196,16 +196,8 @@ Projeto focado em **HTML, CSS e responsividade**.
 <img src="https://img.shields.io/badge/Ver_projetos-7C3AED?style=for-the-badge&logo=github&logoColor=FFFFFF">
 </a>
 
-</div>
+<br><br>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:17151f,50:E879F9,100:7C3AED&height=2&section=header" width="60%">
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:17151f,50:7C3AED,100:E879F9&height=140&section=footer">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gmclaraa&bg_color=17151f&color=C084FC&line=E879F9&point=FFFFFF&area=true&hide_border=true">
 
 </div>
