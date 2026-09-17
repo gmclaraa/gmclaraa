@@ -20,7 +20,7 @@ Atualmente estou expandindo meus conhecimentos com **React, Node.js e SQL**, bus
 
 Gosto principalmente de aprender colocando a mão no código. Grande parte do que estudo acaba virando algum projeto, experimento ou ideia para testar na prática.
 
-Um dos projetos que mais representa isso é o **ÂnimaScript**: uma extensão para Chrome que desenvolvi por iniciativa própria para automatizar uma tarefa do meu trabalho. O projeto transformou um processo que levava alguns minutos em algo praticamente instantâneo e já ultrapassou **300 usuários**.
+Também desenvolvi o **ÂnimaScript**, uma extensão para Chrome criada por iniciativa própria para automatizar uma tarefa do meu trabalho. O projeto foi desenvolvido com apoio de **vibecoding** e já ultrapassou **300 usuários**.
 
 <br>
 
@@ -77,13 +77,13 @@ Um dos projetos que mais representa isso é o **ÂnimaScript**: uma extensão pa
 
 <td width="50%" valign="top">
 
-## 🧩 ÂnimaScript
+## 🚲 Bikcraft
 
-Uma extensão para Chrome criada para resolver um problema real do meu dia a dia.
+Meu projeto mais completo de **Front-end** até o momento.
 
-Desenvolvida com **HTML, CSS e JavaScript**, automatiza a geração de scripts de atendimento a partir dos dados do sistema.
+Desenvolvido durante meus estudos, explorando **HTML, CSS, responsividade, organização de layouts e construção de interfaces**.
 
-**+300 usuários**
+Foi um dos projetos em que mais pratiquei a criação de uma interface completa, desde a estrutura até os detalhes visuais.
 
 <a href="https://github.com/gmclaraa">→ conhecer projeto</a>
 
@@ -107,21 +107,25 @@ O projeto utiliza a API do TheMealDB para buscar receitas de acordo com os ingre
 
 <td width="50%" valign="top">
 
-## 🎨 Front-end
+## 🧩 ÂnimaScript
 
-Projetos desenvolvidos durante meus estudos de **HTML, CSS e JavaScript**, explorando layouts, responsividade, interações e diferentes formas de construir interfaces.
+Extensão para Chrome criada a partir de uma necessidade real do meu trabalho.
 
-<a href="https://github.com/gmclaraa">→ ver projetos</a>
+O projeto automatiza a geração de scripts de atendimento e foi desenvolvido com **HTML, CSS e JavaScript**, com apoio de vibecoding.
+
+**+300 usuários**
+
+<a href="https://github.com/gmclaraa">→ conhecer projeto</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🌱 Em construção
+## 🎨 Outros projetos
 
-Meu GitHub também acompanha o que ainda estou aprendendo.
+Projetos e exercícios desenvolvidos durante meus estudos de **HTML, CSS e JavaScript**, explorando diferentes interfaces, layouts, interações e funcionalidades.
 
-Os próximos projetos vão explorar **React, Node.js, SQL, testes e desenvolvimento Full Stack**.
+<a href="https://github.com/gmclaraa">→ ver projetos</a>
 
 </td>
 
