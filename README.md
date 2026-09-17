@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Clara+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software;Apaixonada+por+c%C3%B3digo+%E2%9C%A8" alt="Typing SVG" />
 
-![Profile views](https://komarev.com/ghpvc/?username=SEU-USUARIO&color=F7DF1E&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=gmclaraa&color=F7DF1E&style=flat-square)
 
 </div>
 
@@ -30,21 +30,21 @@ Comecei com HTML e CSS e hoje mergulho de cabeça em JavaScript, React, Node.js 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=radical&hide_border=true" alt="Streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gmclaraa&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gmclaraa&theme=radical&hide_border=true" alt="Streak" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical&hide_border=true" alt="Top Langs"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmclaraa&layout=compact&theme=radical&hide_border=true" alt="Top Langs"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=react-dark&hide_border=true" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gmclaraa&theme=react-dark&hide_border=true" alt="Activity Graph"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=radical&no-frame=true&row=1&column=6" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=gmclaraa&theme=radical&no-frame=true&row=1&column=6" alt="Trophies"/>
 
 </div>
 
 ## 🐍 Contribuições
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/gmclaraa/gmclaraa/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
 
 ---
