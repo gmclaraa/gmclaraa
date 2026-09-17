@@ -1,6 +1,6 @@
 # Olá, eu sou a Clara 👋✨
 
-Estudante de Engenharia de Software e ADS, apaixonada por transformar ideias em código! Comecei com HTML e CSS e hoje mergulho de cabeça em JavaScript, React, Node.js e SQL — do front ao back-end 🚀
+Estudante de Engenharia de Software e ADS, apaixonada por transformar ideias em código! Comecei com HTML e CSS e hoje mergulho de cabeça em JavaScript, React, Node.js e SQL  do front ao back-end 🚀
 
 ## 🛠️ Tecnologias que já domino
 
