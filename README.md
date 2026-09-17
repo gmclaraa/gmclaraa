@@ -96,7 +96,6 @@ O projeto possui páginas de produtos, seguros, contato e orçamento.
 
 <a href="https://github.com/gmclaraa/bikcraft">→ código no GitHub</a>
 
-<br><br>
 
 <a href="https://bikcraft-lemon-two.vercel.app/">→ visualizar projeto</a>
 
@@ -132,7 +131,6 @@ A ferramenta automatiza a geração de scripts de atendimento e foi desenvolvida
 
 **+300 usuários**
 
-<br><br>
 
 <a href="https://chromewebstore.google.com/detail/animascript/doglihdookoginaidcnkandbkdkgphpf?hl=pt-BR">→ ver na Chrome Web Store</a>
 
@@ -150,7 +148,6 @@ Projeto focado na prática de **HTML, CSS, responsividade e construção de layo
 
 <a href="https://github.com/gmclaraa/Clipboard-landing-page">→ código no GitHub</a>
 
-<br><br>
 
 <a href="https://clipboard-landing-page-fawn-seven.vercel.app/">→ visualizar projeto</a>
 
