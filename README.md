@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=700&size=52&duration=3500&pause=1200&color=C084FC&center=true&vCenter=true&width=1000&height=90&lines=Oi%2C+eu+sou+a+Clara" />
+<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=700&size=52&duration=3500&pause=1200&color=C084FC&center=true&vCenter=true&width=1000&height=90&lines=Oi%2C+eu+sou+a+Clara&repeat=false" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=25&duration=3500&pause=1200&color=E879F9&center=true&vCenter=true&width=850&height=50&lines=Estudante+de+Engenharia+de+Software;Desenvolvedora+Full+Stack+em+forma%C3%A7%C3%A3o" />
+<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=25&duration=3500&pause=1200&color=E879F9&center=true&vCenter=true&width=850&height=50&lines=Estudante+de+Engenharia+de+Software;Desenvolvedora+Full+Stack+em+forma%C3%A7%C3%A3o&repeat=false" />
 
 <br><br>
 
@@ -198,6 +198,18 @@ Projeto focado em **HTML, CSS e responsividade**.
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gmclaraa&bg_color=17151f&color=C084FC&line=E879F9&point=FFFFFF&area=true&hide_border=true">
+<img src="https://ghchart.rshah.org/7C3AED/gmclaraa" alt="GitHub Contributions">
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:17151f,50:E879F9,100:7C3AED&height=2&section=header" width="60%">
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:17151f,50:7C3AED,100:E879F9&height=140&section=footer">
 
 </div>
