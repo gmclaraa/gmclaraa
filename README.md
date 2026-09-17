@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=700&size=38&duration=3500&pause=1200&color=C084FC&center=true&vCenter=true&width=850&height=70&lines=Oi%2C+eu+sou+a+Clara;Estudante+de+Engenharia+de+Software;Desenvolvedora+Full+Stack+em+forma%C3%A7%C3%A3o" />
+<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=700&size=52&duration=3500&pause=1200&color=C084FC&center=true&vCenter=true&width=1000&height=90&lines=Oi%2C+eu+sou+a+Clara" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=25&duration=3500&pause=1200&color=E879F9&center=true&vCenter=true&width=850&height=50&lines=Estudante+de+Engenharia+de+Software;Desenvolvedora+Full+Stack+em+forma%C3%A7%C3%A3o" />
 
 <br><br>
 
@@ -47,10 +51,6 @@ Também desenvolvi o **ÂnimaScript**, uma extensão para Chrome criada a partir
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=js,react,nodejs,mysql,docker,aws&theme=dark" height="65">
-
-<br><br>
-
-JavaScript · React · Node.js · SQL · Testes · CI/CD · Docker · Cloud
 
 </div>
 
