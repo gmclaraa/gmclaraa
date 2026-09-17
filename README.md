@@ -14,7 +14,7 @@
 
 Sou estudante de **Engenharia de Software** e **Análise e Desenvolvimento de Sistemas**, construindo minha trajetória na área de Tecnologia.
 
-Meu objetivo é me tornar uma **desenvolvedora Full Stack**, desenvolvendo conhecimentos em Front-end e Back-end e entendendo todo o processo de construção de uma aplicação.
+Meu objetivo é me tornar uma **desenvolvedora Full Stack**, ampliando meus conhecimentos em Front-end e Back-end e entendendo todo o processo de construção de uma aplicação.
 
 Atualmente estudo **JavaScript, React, Node.js e SQL**, além de APIs, Git, testes, CI/CD, Docker e Cloud.
 
@@ -24,23 +24,7 @@ Também desenvolvi o **ÂnimaScript**, uma extensão para Chrome criada a partir
 
 <br>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E879F9,50:7C3AED,100:17151f&height=2&section=header" width="65%">
-
-<br><br>
-
-<h2>CRIAR • APRENDER • EVOLUIR</h2>
-
-<p>
-Transformando conhecimento em projetos e projetos em experiência.
-</p>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:17151f,50:E879F9,100:7C3AED&height=2&section=header" width="65%">
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E879F9,50:7C3AED,100:17151f&height=2&section=header" width="70%">
 
 <br>
 
@@ -48,39 +32,13 @@ Transformando conhecimento em projetos e projetos em experiência.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html&theme=dark" width="60">
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css&theme=dark" width="60">
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js&theme=dark" width="60">
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=react&theme=dark" width="60">
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="60">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql&theme=dark" height="70">
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="60">
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=git&theme=dark" width="60">
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github&theme=dark" width="60">
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="60">
+<img src="https://skillicons.dev/icons?i=git,github,figma,docker,aws&theme=dark" height="70">
 
 </div>
-
-<br>
-
-<div align="center">
-
-<p><strong>Desenvolvimento Web • Interfaces • APIs • Banco de Dados • Versionamento</strong></p>
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:17151f,50:7C3AED,100:E879F9&height=2&section=header" width="70%">
 
 <br>
 
@@ -88,41 +46,17 @@ Transformando conhecimento em projetos e projetos em experiência.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js&theme=dark" width="65">
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=react&theme=dark" width="65">
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="65">
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="65">
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="65">
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="65">
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,mysql,docker,aws&theme=dark" height="65">
 
 <br><br>
 
-<p>
-<strong>JavaScript • React • Node.js • SQL • Testes • CI/CD • Docker • Cloud</strong>
-</p>
+**JavaScript · React · Node.js · SQL · Testes · CI/CD · Docker · Cloud**
 
 </div>
 
 <br>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E879F9,50:7C3AED,100:17151f&height=2&section=header" width="60%">
-
-<br><br>
-
-<h2>Construindo minha carreira em tecnologia.</h2>
-
-<p>
-Cada projeto é uma nova oportunidade para aprender algo diferente.
-</p>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:17151f,50:7C3AED,100:E879F9&height=2&section=header" width="70%">
 
 <br>
 
@@ -141,18 +75,18 @@ Desenvolvido durante meus estudos na Origamid, explorando **HTML, CSS, JavaScrip
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="42">
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="45">
 
 <br><br>
 
 <a href="https://github.com/gmclaraa/bikcraft">
-<img src="https://img.shields.io/badge/GitHub-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Código-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF">
 </a>
 
 &nbsp;
 
 <a href="https://bikcraft-lemon-two.vercel.app/">
-<img src="https://img.shields.io/badge/Projeto_online-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Ver_projeto-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF">
 </a>
 
 </td>
@@ -165,18 +99,18 @@ Aplicação desenvolvida para praticar **JavaScript, DOM e consumo de APIs**, ut
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="42">
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="45">
 
 <br><br>
 
 <a href="https://github.com/gmclaraa/buscador_de_receitas">
-<img src="https://img.shields.io/badge/GitHub-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Código-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF">
 </a>
 
 &nbsp;
 
 <a href="https://buscador-de-receitas-one.vercel.app/">
-<img src="https://img.shields.io/badge/Projeto_online-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Ver_projeto-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF">
 </a>
 
 </td>
@@ -189,13 +123,13 @@ Aplicação desenvolvida para praticar **JavaScript, DOM e consumo de APIs**, ut
 
 <h3>ÂnimaScript</h3>
 
-Extensão para Chrome criada para automatizar uma tarefa real do meu trabalho.
+Extensão para Chrome criada a partir de uma necessidade real do meu trabalho, com o objetivo de automatizar uma tarefa do dia a dia.
 
 Desenvolvida com **HTML, CSS e JavaScript**, com apoio de vibecoding.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="42">
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="45">
 
 <br><br>
 
@@ -219,18 +153,18 @@ Projeto focado em **HTML, CSS e responsividade**.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css&theme=dark" height="42">
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" height="45">
 
 <br><br>
 
 <a href="https://github.com/gmclaraa/Clipboard-landing-page">
-<img src="https://img.shields.io/badge/GitHub-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Código-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF">
 </a>
 
 &nbsp;
 
 <a href="https://clipboard-landing-page-fawn-seven.vercel.app/">
-<img src="https://img.shields.io/badge/Projeto_online-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Ver_projeto-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF">
 </a>
 
 </td>
@@ -240,19 +174,7 @@ Projeto focado em **HTML, CSS e responsividade**.
 
 <br>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:17151f,50:E879F9,100:7C3AED&height=2&section=header" width="60%">
-
-<br><br>
-
-<h2>Mais projetos em desenvolvimento...</h2>
-
-<p>
-Aprendendo na prática e transformando ideias em código.
-</p>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E879F9,50:7C3AED,100:17151f&height=2&section=header" width="70%">
 
 <br>
 
@@ -260,57 +182,31 @@ Aprendendo na prática e transformando ideias em código.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:17151f,50:7C3AED,100:E879F9&height=2&section=header" width="80%">
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=26&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Meu+GitHub;C%C3%B3digo%2C+projetos+e+aprendizado;Sempre+construindo+algo+novo" />
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E879F9,50:7C3AED,100:17151f&height=2&section=header" width="60%">
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/gmclaraa">
-<img src="https://img.shields.io/badge/GitHub-gmclaraa-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF">
-</a>
-
-&nbsp;
-
-<a href="https://github.com/gmclaraa?tab=repositories">
-<img src="https://img.shields.io/badge/Projetos-7C3AED?style=for-the-badge&logo=github&logoColor=FFFFFF">
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gmclaraa&bg_color=17151f&color=C084FC&line=E879F9&point=FFFFFF&area=true&hide_border=true&custom_title=Minha%20atividade%20no%20GitHub" width="90%" alt="Gráfico de atividade do GitHub">
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=18&duration=2800&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=C%C3%B3digo%2C+projetos+e+aprendizado;Construindo+minha+carreira+em+tecnologia;Sempre+aprendendo%2C+sempre+evoluindo" />
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:17151f,50:E879F9,100:7C3AED&height=2&section=header" width="70%">
+<img src="https://skillicons.dev/icons?i=github&theme=dark" height="75">
 
 <br><br>
 
 <a href="https://github.com/gmclaraa">
 <img src="https://img.shields.io/badge/@gmclaraa-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF">
 </a>
+
+&nbsp;
+
+<a href="https://github.com/gmclaraa?tab=repositories">
+<img src="https://img.shields.io/badge/Ver_projetos-7C3AED?style=for-the-badge&logo=github&logoColor=FFFFFF">
+</a>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:17151f,50:E879F9,100:7C3AED&height=2&section=header" width="60%">
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=17&duration=3000&pause=1200&color=C084FC&center=true&vCenter=true&width=600&lines=Estudando+%E2%80%A2+Construindo+%E2%80%A2+Evoluindo" />
 
 </div>
 
