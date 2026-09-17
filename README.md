@@ -198,7 +198,7 @@ Projeto focado em **HTML, CSS e responsividade**.
 
 <br><br>
 
-<img src="https://ghchart.rshah.org/7C3AED/gmclaraa" alt="GitHub Contributions">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gmclaraa&days=30&bg_color=17151f&color=C084FC&line=E879F9&point=FFFFFF&area=true&hide_border=true&custom_title=Atividade%20dos%20%C3%BAltimos%2030%20dias">
 
 </div>
 
