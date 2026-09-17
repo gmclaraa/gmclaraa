@@ -96,9 +96,9 @@ Desenvolvido durante meus estudos na Origamid, explorando **HTML, CSS, JavaScrip
 
 <h3>🍳 Buscador de Receitas</h3>
 
-Aplicação desenvolvida para praticar **JavaScript, DOM e consumo de APIs** utilizando a TheMealDB.
+Aplicação desenvolvida para praticar **JavaScript, DOM e consumo de APIs**, utilizando a TheMealDB.
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/HTML5-17151f?style=flat-square&logo=html5&logoColor=E34F26">
 <img src="https://img.shields.io/badge/CSS3-17151f?style=flat-square&logo=css3&logoColor=1572B6">
@@ -109,6 +109,12 @@ Aplicação desenvolvida para praticar **JavaScript, DOM e consumo de APIs** uti
 
 <a href="https://github.com/gmclaraa/buscador_de_receitas">
 <img src="https://img.shields.io/badge/GitHub-17151f?style=flat-square&logo=github&logoColor=white">
+</a>
+
+&nbsp;
+
+<a href="https://buscador-de-receitas-one.vercel.app/">
+<img src="https://img.shields.io/badge/Projeto_online-7C3AED?style=flat-square&logo=vercel&logoColor=white">
 </a>
 
 </td>
@@ -125,7 +131,7 @@ Extensão para Chrome criada para automatizar uma tarefa real do meu trabalho.
 
 Desenvolvida com **HTML, CSS e JavaScript**, com apoio de vibecoding.
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/HTML5-17151f?style=flat-square&logo=html5&logoColor=E34F26">
 <img src="https://img.shields.io/badge/CSS3-17151f?style=flat-square&logo=css3&logoColor=1572B6">
@@ -152,7 +158,7 @@ Landing page responsiva desenvolvida como desafio do **Frontend Mentor**.
 
 Projeto focado em **HTML, CSS e responsividade**.
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/HTML5-17151f?style=flat-square&logo=html5&logoColor=E34F26">
 <img src="https://img.shields.io/badge/CSS3-17151f?style=flat-square&logo=css3&logoColor=1572B6">
