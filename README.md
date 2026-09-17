@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:17151f,50:7C3AED,100:E879F9&height=2&section=header" width="80%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:17151f,50:6D28D9,100:E879F9&height=2&section=header" width="80%">
 
 </div>
 
@@ -214,11 +214,37 @@ Projeto focado em **HTML, CSS e responsividade**.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gmclaraa&show_icons=true&hide_border=true&bg_color=17151f&title_color=C084FC&text_color=E5E7EB&icon_color=E879F9&count_private=true" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmclaraa&layout=compact&hide_border=true&bg_color=17151f&title_color=C084FC&text_color=E5E7EB" height="165">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:17151f,50:7C3AED,100:E879F9&height=2&section=header" width="80%">
 
 <br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=26&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Meu+GitHub;C%C3%B3digo%2C+projetos+e+aprendizado;Sempre+construindo+algo+novo" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E879F9,50:7C3AED,100:17151f&height=2&section=header" width="60%">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/gmclaraa">
+<img src="https://img.shields.io/badge/GitHub-gmclaraa-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF">
+</a>
+
+&nbsp;
+
+<a href="https://github.com/gmclaraa?tab=repositories">
+<img src="https://img.shields.io/badge/Projetos-7C3AED?style=for-the-badge&logo=github&logoColor=FFFFFF">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gmclaraa&bg_color=17151f&color=C084FC&line=E879F9&point=FFFFFF&area=true&hide_border=true" width="90%">
 
@@ -228,6 +254,14 @@ Projeto focado em **HTML, CSS e responsividade**.
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=16&duration=2500&pause=800&color=E879F9&center=true&vCenter=true&width=500&lines=JavaScript+%E2%80%A2+React+%E2%80%A2+Node.js;Front-end+%E2%80%A2+Back-end+%E2%80%A2+Full+Stack;Aprendendo+um+pouco+mais+a+cada+projeto" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:17151f,50:E879F9,100:7C3AED&height=2&section=header" width="70%">
+
+<br><br>
+
 <a href="https://github.com/gmclaraa">
 <img src="https://img.shields.io/badge/@gmclaraa-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF">
 </a>
@@ -236,4 +270,4 @@ Projeto focado em **HTML, CSS e responsividade**.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:17151f,50:7C3AED,100:E879F9&height=120&section=footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:17151f,50:7C3AED,100:E879F9&height=140&section=footer">
