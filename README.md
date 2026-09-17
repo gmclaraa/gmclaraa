@@ -32,11 +32,37 @@ Também desenvolvi o **ÂnimaScript**, uma extensão para Chrome criada a partir
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql&theme=dark" height="70">
+<img src="https://cdn.simpleicons.org/html5/C084FC" height="60">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/css3/C084FC" height="60">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/javascript/C084FC" height="60">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/react/C084FC" height="60">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/nodedotjs/C084FC" height="60">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/mysql/C084FC" height="60">
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,docker,aws&theme=dark" height="70">
+<img src="https://cdn.simpleicons.org/git/C084FC" height="60">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/github/C084FC" height="60">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/figma/C084FC" height="60">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/docker/C084FC" height="60">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/amazonaws/C084FC" height="60">
+
+</div>
+
+<br>
+
+<div align="center">
+
+**HTML • CSS • JavaScript • React • Node.js • SQL • Git • UI Design**
 
 </div>
 
@@ -46,11 +72,21 @@ Também desenvolvi o **ÂnimaScript**, uma extensão para Chrome criada a partir
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,mysql,docker,aws&theme=dark" height="65">
+<img src="https://cdn.simpleicons.org/javascript/C084FC" height="55">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/react/C084FC" height="55">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/nodedotjs/C084FC" height="55">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/mysql/C084FC" height="55">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/docker/C084FC" height="55">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/amazonaws/C084FC" height="55">
 
 <br><br>
 
-**JavaScript · React · Node.js · SQL · Testes · CI/CD · Docker · Cloud**
+JavaScript · React · Node.js · SQL · Testes · CI/CD · Docker · Cloud
 
 </div>
 
@@ -67,60 +103,6 @@ Também desenvolvi o **ÂnimaScript**, uma extensão para Chrome criada a partir
 
 <td width="50%" valign="top">
 
-<h3>Bikcraft</h3>
-
-Meu projeto mais completo de **Front-end** até o momento.
-
-Desenvolvido durante meus estudos na Origamid, explorando **HTML, CSS, JavaScript, responsividade e construção de interfaces**.
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="45">
-
-<br><br>
-
-<a href="https://github.com/gmclaraa/bikcraft">
-<img src="https://img.shields.io/badge/Código-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF">
-</a>
-
-&nbsp;
-
-<a href="https://bikcraft-lemon-two.vercel.app/">
-<img src="https://img.shields.io/badge/Ver_projeto-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>Buscador de Receitas</h3>
-
-Aplicação desenvolvida para praticar **JavaScript, DOM e consumo de APIs**, utilizando a TheMealDB.
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="45">
-
-<br><br>
-
-<a href="https://github.com/gmclaraa/buscador_de_receitas">
-<img src="https://img.shields.io/badge/Código-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF">
-</a>
-
-&nbsp;
-
-<a href="https://buscador-de-receitas-one.vercel.app/">
-<img src="https://img.shields.io/badge/Ver_projeto-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF">
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
 <h3>ÂnimaScript</h3>
 
 Extensão para Chrome criada a partir de uma necessidade real do meu trabalho, com o objetivo de automatizar uma tarefa do dia a dia.
@@ -129,7 +111,13 @@ Desenvolvida com **HTML, CSS e JavaScript**, com apoio de vibecoding.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="45">
+<img src="https://cdn.simpleicons.org/html5/C084FC" height="35">
+&nbsp;
+<img src="https://cdn.simpleicons.org/css3/C084FC" height="35">
+&nbsp;
+<img src="https://cdn.simpleicons.org/javascript/C084FC" height="35">
+&nbsp;
+<img src="https://cdn.simpleicons.org/googlechrome/C084FC" height="35">
 
 <br><br>
 
@@ -145,6 +133,68 @@ Desenvolvida com **HTML, CSS e JavaScript**, com apoio de vibecoding.
 
 <td width="50%" valign="top">
 
+<h3>Bikcraft</h3>
+
+Meu projeto mais completo de **Front-end** até o momento.
+
+Desenvolvido durante meus estudos na Origamid, explorando **HTML, CSS, JavaScript, responsividade e construção de interfaces**.
+
+<br>
+
+<img src="https://cdn.simpleicons.org/html5/C084FC" height="35">
+&nbsp;
+<img src="https://cdn.simpleicons.org/css3/C084FC" height="35">
+&nbsp;
+<img src="https://cdn.simpleicons.org/javascript/C084FC" height="35">
+
+<br><br>
+
+<a href="https://github.com/gmclaraa/bikcraft">
+<img src="https://img.shields.io/badge/Código-17151f?style=for-the-badge&logo=github&logoColor=C084FC">
+</a>
+
+&nbsp;
+
+<a href="https://bikcraft-lemon-two.vercel.app/">
+<img src="https://img.shields.io/badge/Ver_projeto-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>Buscador de Receitas</h3>
+
+Aplicação desenvolvida para praticar **JavaScript, DOM e consumo de APIs**, utilizando a TheMealDB.
+
+<br>
+
+<img src="https://cdn.simpleicons.org/html5/C084FC" height="35">
+&nbsp;
+<img src="https://cdn.simpleicons.org/css3/C084FC" height="35">
+&nbsp;
+<img src="https://cdn.simpleicons.org/javascript/C084FC" height="35">
+
+<br><br>
+
+<a href="https://github.com/gmclaraa/buscador_de_receitas">
+<img src="https://img.shields.io/badge/Código-17151f?style=for-the-badge&logo=github&logoColor=C084FC">
+</a>
+
+&nbsp;
+
+<a href="https://buscador-de-receitas-one.vercel.app/">
+<img src="https://img.shields.io/badge/Ver_projeto-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
 <h3>Clipboard Landing Page</h3>
 
 Landing page responsiva desenvolvida como desafio do **Frontend Mentor**.
@@ -153,12 +203,14 @@ Projeto focado em **HTML, CSS e responsividade**.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css&theme=dark" height="45">
+<img src="https://cdn.simpleicons.org/html5/C084FC" height="35">
+&nbsp;
+<img src="https://cdn.simpleicons.org/css3/C084FC" height="35">
 
 <br><br>
 
 <a href="https://github.com/gmclaraa/Clipboard-landing-page">
-<img src="https://img.shields.io/badge/Código-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Código-17151f?style=for-the-badge&logo=github&logoColor=C084FC">
 </a>
 
 &nbsp;
@@ -182,12 +234,12 @@ Projeto focado em **HTML, CSS e responsividade**.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=github&theme=dark" height="75">
+<img src="https://cdn.simpleicons.org/github/C084FC" height="75">
 
 <br><br>
 
 <a href="https://github.com/gmclaraa">
-<img src="https://img.shields.io/badge/@gmclaraa-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/@gmclaraa-17151f?style=for-the-badge&logo=github&logoColor=C084FC">
 </a>
 
 &nbsp;
@@ -206,7 +258,7 @@ Projeto focado em **HTML, CSS e responsividade**.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=17&duration=3000&pause=1200&color=C084FC&center=true&vCenter=true&width=600&lines=Estudando+%E2%80%A2+Construindo+%E2%80%A2+Evoluindo" />
+<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=17&duration=3000&pause=1200&color=C084FC&center=true&vCenter=true&width=600&lines=Estudando+e+construindo+projetos+em+Tecnologia;Em+constante+evolu%C3%A7%C3%A3o+como+desenvolvedora" />
 
 </div>
 
