@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=30&duration=3500&pause=1200&color=C084FC&center=true&vCenter=true&width=750&lines=Oi%2C+eu+sou+a+Clara;Estudante+de+Engenharia+de+Software;Desenvolvedora+Full+Stack+em+formação" />
+<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=30&duration=3500&pause=1200&color=C084FC&center=true&vCenter=true&width=750&lines=Oi%2C+eu+sou+a+Clara;Estudante+de+Engenharia+de+Software;Desenvolvedora+Full+Stack+em+forma%C3%A7%C3%A3o" />
 
 <br><br>
 
@@ -46,7 +46,14 @@ Também desenvolvi o **ÂnimaScript**, uma extensão para Chrome criada a partir
 
 <div align="center">
 
-`JavaScript` · `React` · `Node.js` · `SQL` · `Testes` · `CI/CD` · `Docker` · `AWS`
+<img src="https://img.shields.io/badge/JavaScript-17151f?style=flat-square&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/React-17151f?style=flat-square&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Node.js-17151f?style=flat-square&logo=node.js&logoColor=68A063">
+<img src="https://img.shields.io/badge/SQL-17151f?style=flat-square&logo=mysql&logoColor=4479A1">
+<img src="https://img.shields.io/badge/Testes-17151f?style=flat-square">
+<img src="https://img.shields.io/badge/CI%2FCD-17151f?style=flat-square">
+<img src="https://img.shields.io/badge/Docker-17151f?style=flat-square&logo=docker&logoColor=2496ED">
+<img src="https://img.shields.io/badge/AWS-17151f?style=flat-square&logo=amazonwebservices&logoColor=FF9900">
 
 </div>
 
@@ -63,7 +70,13 @@ Também desenvolvi o **ÂnimaScript**, uma extensão para Chrome criada a partir
 
 Meu projeto mais completo de **Front-end** até o momento.
 
-Prática de **HTML, CSS, JavaScript, responsividade e construção de interfaces**.
+Desenvolvido durante meus estudos na Origamid, explorando **HTML, CSS, JavaScript, responsividade e construção de interfaces**.
+
+<br>
+
+<img src="https://img.shields.io/badge/HTML5-17151f?style=flat-square&logo=html5&logoColor=E34F26">
+<img src="https://img.shields.io/badge/CSS3-17151f?style=flat-square&logo=css3&logoColor=1572B6">
+<img src="https://img.shields.io/badge/JavaScript-17151f?style=flat-square&logo=javascript&logoColor=F7DF1E">
 
 <br><br>
 
@@ -84,6 +97,13 @@ Prática de **HTML, CSS, JavaScript, responsividade e construção de interfaces
 <h3>🍳 Buscador de Receitas</h3>
 
 Aplicação desenvolvida para praticar **JavaScript, DOM e consumo de APIs** utilizando a TheMealDB.
+
+<br>
+
+<img src="https://img.shields.io/badge/HTML5-17151f?style=flat-square&logo=html5&logoColor=E34F26">
+<img src="https://img.shields.io/badge/CSS3-17151f?style=flat-square&logo=css3&logoColor=1572B6">
+<img src="https://img.shields.io/badge/JavaScript-17151f?style=flat-square&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/API-17151f?style=flat-square&logoColor=white">
 
 <br><br>
 
@@ -107,6 +127,13 @@ Desenvolvida com **HTML, CSS e JavaScript**, com apoio de vibecoding.
 
 <br>
 
+<img src="https://img.shields.io/badge/HTML5-17151f?style=flat-square&logo=html5&logoColor=E34F26">
+<img src="https://img.shields.io/badge/CSS3-17151f?style=flat-square&logo=css3&logoColor=1572B6">
+<img src="https://img.shields.io/badge/JavaScript-17151f?style=flat-square&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/Chrome_Extension-17151f?style=flat-square&logo=googlechrome&logoColor=white">
+
+<br><br>
+
 <strong>+300 usuários</strong>
 
 <br><br>
@@ -123,7 +150,12 @@ Desenvolvida com **HTML, CSS e JavaScript**, com apoio de vibecoding.
 
 Landing page responsiva desenvolvida como desafio do **Frontend Mentor**.
 
-Prática de **HTML, CSS e responsividade**.
+Projeto focado em **HTML, CSS e responsividade**.
+
+<br>
+
+<img src="https://img.shields.io/badge/HTML5-17151f?style=flat-square&logo=html5&logoColor=E34F26">
+<img src="https://img.shields.io/badge/CSS3-17151f?style=flat-square&logo=css3&logoColor=1572B6">
 
 <br><br>
 
