@@ -1,6 +1,10 @@
-# Olá, eu sou a Clara 👋✨
+<div align="center">
 
-Estudante de Engenharia de Software e ADS, apaixonada por transformar ideias em código! Comecei com HTML e CSS e hoje mergulho de cabeça em JavaScript, React, Node.js e SQL  do front ao back-end 🚀
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Clara+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software;Apaixonada+por+c%C3%B3digo+%E2%9C%A8" alt="Typing SVG" />
+
+</div>
+
+Comecei com HTML e CSS e hoje mergulho de cabeça em JavaScript, React, Node.js e SQL — do front ao back-end 🚀
 
 ## 🛠️ Tecnologias que já domino
 
@@ -22,4 +26,10 @@ Estudante de Engenharia de Software e ADS, apaixonada por transformar ideias em 
 
 ---
 
+<div align="center">
+
 Bora trocar ideia sobre código? 💛
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+
+</div>
