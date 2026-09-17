@@ -18,9 +18,9 @@ Comecei pelos fundamentos de **HTML e CSS** e fui avançando para JavaScript, on
 
 Atualmente estou expandindo meus conhecimentos com **React, Node.js e SQL**, buscando entender não apenas como criar uma interface, mas também o que acontece por trás dela.
 
-Gosto principalmente de aprender colocando a mão no código. Grande parte do que estudo acaba virando algum projeto, experimento ou ideia para testar na prática.
+Gosto de aprender colocando a mão no código. Grande parte do que estudo acaba virando algum projeto, experimento ou ideia para testar na prática.
 
-Também desenvolvi o **ÂnimaScript**, uma extensão para Chrome criada por iniciativa própria para automatizar uma tarefa do meu trabalho. O projeto foi desenvolvido com apoio de **vibecoding** e já ultrapassou **300 usuários**.
+Também desenvolvi o **ÂnimaScript**, uma extensão para Chrome criada a partir de uma necessidade real do meu trabalho. O projeto foi desenvolvido com apoio de **vibecoding** e já ultrapassou **300 usuários**.
 
 <br>
 
@@ -38,13 +38,20 @@ Também desenvolvi o **ÂnimaScript**, uma extensão para Chrome criada por inic
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,git,github,figma" />
 
-<br><br>
+</div>
+
+<br>
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/HTML5-17151f?style=for-the-badge&logo=html5&logoColor=E34F26">
 <img src="https://img.shields.io/badge/CSS3-17151f?style=for-the-badge&logo=css3&logoColor=1572B6">
 <img src="https://img.shields.io/badge/JavaScript-17151f?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/React-17151f?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Node.js-17151f?style=for-the-badge&logo=node.js&logoColor=68A063">
+<img src="https://img.shields.io/badge/MySQL-17151f?style=for-the-badge&logo=mysql&logoColor=4479A1">
 <img src="https://img.shields.io/badge/Figma-17151f?style=for-the-badge&logo=figma&logoColor=F24E1E">
 
 </div>
@@ -81,11 +88,17 @@ Também desenvolvi o **ÂnimaScript**, uma extensão para Chrome criada por inic
 
 Meu projeto mais completo de **Front-end** até o momento.
 
-Desenvolvido durante meus estudos, explorando **HTML, CSS, responsividade, organização de layouts e construção de interfaces**.
+Desenvolvido durante meus estudos na Origamid, explorando **HTML, CSS, JavaScript, responsividade, organização de layouts e construção de interfaces**.
 
-Foi um dos projetos em que mais pratiquei a criação de uma interface completa, desde a estrutura até os detalhes visuais.
+O projeto possui páginas de produtos, seguros, contato e orçamento.
 
-<a href="https://github.com/gmclaraa">→ conhecer projeto</a>
+<br>
+
+<a href="https://github.com/gmclaraa/bikcraft">→ código no GitHub</a>
+
+<br><br>
+
+<a href="https://bikcraft-lemon-two.vercel.app/">→ visualizar projeto</a>
 
 </td>
 
@@ -95,9 +108,11 @@ Foi um dos projetos em que mais pratiquei a criação de uma interface completa,
 
 Aplicação desenvolvida para praticar **JavaScript, DOM e consumo de APIs**.
 
-O projeto utiliza a API do TheMealDB para buscar receitas de acordo com os ingredientes informados.
+O projeto utiliza a API **TheMealDB** para buscar receitas por ingrediente e exibir informações completas sobre cada receita.
 
-<a href="https://github.com/gmclaraa">→ conhecer projeto</a>
+<br>
+
+<a href="https://github.com/gmclaraa/buscador_de_receitas">→ código no GitHub</a>
 
 </td>
 
@@ -111,21 +126,33 @@ O projeto utiliza a API do TheMealDB para buscar receitas de acordo com os ingre
 
 Extensão para Chrome criada a partir de uma necessidade real do meu trabalho.
 
-O projeto automatiza a geração de scripts de atendimento e foi desenvolvido com **HTML, CSS e JavaScript**, com apoio de vibecoding.
+A ferramenta automatiza a geração de scripts de atendimento e foi desenvolvida com **HTML, CSS e JavaScript**, com apoio de vibecoding.
+
+<br>
 
 **+300 usuários**
 
-<a href="https://github.com/gmclaraa">→ conhecer projeto</a>
+<br><br>
+
+<a href="https://chromewebstore.google.com/detail/animascript/doglihdookoginaidcnkandbkdkgphpf?hl=pt-BR">→ ver na Chrome Web Store</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🎨 Outros projetos
+## 🎨 Clipboard Landing Page
 
-Projetos e exercícios desenvolvidos durante meus estudos de **HTML, CSS e JavaScript**, explorando diferentes interfaces, layouts, interações e funcionalidades.
+Landing page responsiva desenvolvida como desafio do **Frontend Mentor**.
 
-<a href="https://github.com/gmclaraa">→ ver projetos</a>
+Projeto focado na prática de **HTML, CSS, responsividade e construção de layouts seguindo um design proposto**.
+
+<br>
+
+<a href="https://github.com/gmclaraa/Clipboard-landing-page">→ código no GitHub</a>
+
+<br><br>
+
+<a href="https://clipboard-landing-page-fawn-seven.vercel.app/">→ visualizar projeto</a>
 
 </td>
 
@@ -134,9 +161,9 @@ Projetos e exercícios desenvolvidos durante meus estudos de **HTML, CSS e JavaS
 
 <br>
 
-<div align="center">
-
 # ✧ GitHub
+
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=gmclaraa&show_icons=true&hide_border=true&bg_color=17151f&title_color=C084FC&text_color=E5E7EB&icon_color=E879F9&count_private=true" height="165">
 
