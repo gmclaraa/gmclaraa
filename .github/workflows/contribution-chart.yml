@@ -16,8 +16,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Calcular período
+        id: periodo
+        run: |
+          START_DATE="2026-08-26"
+          TODAY=$(date -u +%Y-%m-%d)
+
+          START=$(date -d "$START_DATE" +%s)
+          END=$(date -d "$TODAY" +%s)
+
+          PERIOD=$(( (END - START) / 86400 + 1 ))
+
+          echo "period=$PERIOD" >> "$GITHUB_OUTPUT"
+
       - name: Gerar gráfico
         uses: pipipi-dev/gcchart@v1
         with:
           outputs: |
-            contributions.svg?period=24&granularity=day
+            contributions.svg?period=${{ steps.periodo.outputs.period }}&granularity=day
