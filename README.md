@@ -198,8 +198,7 @@ Projeto focado em **HTML, CSS e responsividade**.
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/gmclaraa/gmclaraa/output/contributions.svg" width="900" alt="GitHub Contributions">
-
+<img src="https://raw.githubusercontent.com/gmclaraa/gmclaraa/output/contributions.svg">
 </div>
 
 <br>
