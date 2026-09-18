@@ -65,7 +65,7 @@ Também desenvolvi o **ÂnimaScript**, uma extensão para Chrome criada a partir
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 <h2>ÂnimaScript</h2>
 
@@ -89,7 +89,7 @@ Desenvolvida com **HTML, CSS e JavaScript**, com apoio de vibecoding.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 <h2>Bikcraft</h2>
 
@@ -119,7 +119,31 @@ Desenvolvido durante meus estudos na Origamid, explorando **HTML, CSS, JavaScrip
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
+
+<h2>Genius</h2>
+
+Clone do clássico jogo Genius (Simon), desenvolvido para praticar **manipulação do DOM, eventos e áudio** em JavaScript.
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="45">
+
+<br><br>
+
+<a href="https://github.com/gmclaraa/genius_game">
+<img src="https://img.shields.io/badge/Código-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF">
+</a>
+
+&nbsp;
+
+<a href="https://genius-game-qv2h.vercel.app/">
+<img src="https://img.shields.io/badge/Ver_projeto-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF">
+</a>
+
+</td>
+
+<td width="50%" valign="top" align="center">
 
 <h2>Buscador de Receitas</h2>
 
@@ -138,32 +162,6 @@ Aplicação desenvolvida para praticar **JavaScript, DOM e consumo de APIs**, ut
 &nbsp;
 
 <a href="https://buscador-de-receitas-one.vercel.app/">
-<img src="https://img.shields.io/badge/Ver_projeto-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h2>Clipboard Landing Page</h2>
-
-Landing page responsiva desenvolvida como desafio do **Frontend Mentor**.
-
-Projeto focado em **HTML, CSS e responsividade**.
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css&theme=dark" height="45">
-
-<br><br>
-
-<a href="https://github.com/gmclaraa/Clipboard-landing-page">
-<img src="https://img.shields.io/badge/Código-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF">
-</a>
-
-&nbsp;
-
-<a href="https://clipboard-landing-page-fawn-seven.vercel.app/">
 <img src="https://img.shields.io/badge/Ver_projeto-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF">
 </a>
 
