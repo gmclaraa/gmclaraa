@@ -77,7 +77,7 @@ Desenvolvida com **HTML, CSS e JavaScript**, com apoio de vibecoding.
 
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="45">
 
-<br><br>
+<br><br><br><br>
 
 <strong>+300 usuários</strong>
 
