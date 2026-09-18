@@ -20,4 +20,4 @@ jobs:
         uses: pipipi-dev/gcchart@v1
         with:
           outputs: |
-            contributions.svg?period=48&granularity=day
+            contributions.svg?period=49&granularity=day
