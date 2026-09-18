@@ -81,7 +81,7 @@ Desenvolvida com **HTML, CSS e JavaScript**, com apoio de vibecoding.
 
 <strong>+300 usuários</strong>
 
-<br><br>
+<br><br><br>
 
 <a href="https://chromewebstore.google.com/detail/animascript/doglihdookoginaidcnkandbkdkgphpf?hl=pt-BR">
 <img src="https://img.shields.io/badge/Chrome_Web_Store-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF">
