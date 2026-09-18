@@ -101,7 +101,7 @@ Desenvolvido durante meus estudos na Origamid, explorando **HTML, CSS, JavaScrip
 
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="45">
 
-<br><br>
+<br><br><br>
 
 <a href="https://github.com/gmclaraa/bikcraft">
 <img src="https://img.shields.io/badge/Código-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF">
