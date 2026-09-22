@@ -137,6 +137,12 @@ Aplicação de clima com dica de vestimenta gerada por **IA**, busca por voz e i
 <img src="https://img.shields.io/badge/Código-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF">
 </a>
 
+&nbsp;
+
+<a href="https://clima-ai-blue.vercel.app/">
+<img src="https://img.shields.io/badge/Ver_projeto-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF">
+</a>
+
 </td>
 
 <td width="50%" valign="top" align="center">
