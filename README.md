@@ -141,34 +141,6 @@ Aplicação de clima com dica de vestimenta gerada por **IA**, busca por voz e i
 
 <td width="50%" valign="top" align="center">
 
-<h2>Buscador de Receitas</h2>
-
-Aplicação desenvolvida para praticar **JavaScript, DOM e consumo de APIs**, utilizando a TheMealDB.
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="45">
-
-<br><br>
-
-<a href="https://github.com/gmclaraa/buscador_de_receitas">
-<img src="https://img.shields.io/badge/Código-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF">
-</a>
-
-&nbsp;
-
-<a href="https://buscador-de-receitas-one.vercel.app/">
-<img src="https://img.shields.io/badge/Ver_projeto-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF">
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top" align="center">
-
 <h2>Genius</h2>
 
 Clone do clássico jogo Genius (Simon), desenvolvido para praticar **manipulação do DOM, eventos e áudio** em JavaScript.
@@ -190,8 +162,6 @@ Clone do clássico jogo Genius (Simon), desenvolvido para praticar **manipulaç�
 </a>
 
 </td>
-
-<td width="50%"></td>
 
 </tr>
 </table>
