@@ -129,11 +129,17 @@ Desenvolvida com <strong>HTML, CSS e JavaScript</strong>, utilizando as APIs <st
 
 <br><br>
 
+<img src="https://img.shields.io/badge/AI-Groq-7C3AED?style=for-the-badge&logo=openai&logoColor=FFFFFF">
+
+<img src="https://img.shields.io/badge/API-OpenWeatherMap-17151f?style=for-the-badge&logo=cloudflare&logoColor=FFFFFF">
+
+<br><br>
+
 <a href="https://github.com/gmclaraa/ClimaAI">
 <img src="https://img.shields.io/badge/Código-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF">
 </a>
 
- 
+&nbsp;
 
 <a href="https://clima-ai-blue.vercel.app/">
 <img src="https://img.shields.io/badge/Ver_projeto-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF">
