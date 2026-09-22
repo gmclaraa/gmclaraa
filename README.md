@@ -91,9 +91,42 @@ Desenvolvida com **HTML, CSS e JavaScript**, com apoio de vibecoding.
 
 <td width="50%" valign="top" align="center">
 
-<h2>user_system</h2>
+<h2>Clima AI</h2>
 
-Aplicação Full Stack para cadastro, listagem e exclusão de usuários, integrada a uma API REST e banco de dados PostgreSQL.
+Aplicação de clima com dica de vestimenta gerada por **IA**, busca por voz e integração com **OpenWeatherMap** e **Groq**.
+
+<br>
+
+<img src="https://img.shields.io/badge/IA_Integrada-C084FC?style=for-the-badge&logo=openai&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/API-7C3AED?style=for-the-badge&logo=fastapi&logoColor=FFFFFF">
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="45">
+
+<br><br>
+
+<a href="https://github.com/gmclaraa/ClimaAI">
+<img src="https://img.shields.io/badge/Código-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF">
+</a>
+
+&nbsp;
+
+<a href="https://clima-ai-blue.vercel.app/">
+<img src="https://img.shields.io/badge/Ver_projeto-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top" align="center">
+
+<h2>✨ User System</h2>
+
+Sistema Full Stack para **cadastro, listagem e exclusão de usuários**, desenvolvido com React e integrado a uma API REST com Node.js, Express e PostgreSQL.
 
 <br>
 
@@ -113,15 +146,13 @@ Aplicação Full Stack para cadastro, listagem e exclusão de usuários, integra
 
 </td>
 
-</tr>
-
-<tr>
-
 <td width="50%" valign="top" align="center">
 
-<h2>Clima AI</h2>
+<h2>Bikcraft</h2>
 
-Aplicação de clima com dica de vestimenta gerada por **IA**, busca por voz e integração com **OpenWeatherMap** e **Groq**.
+Meu projeto mais completo de **Front-end** até o momento.
+
+Desenvolvido durante meus estudos na Origamid, explorando **HTML, CSS, JavaScript, responsividade e construção de interfaces**.
 
 <br>
 
@@ -129,19 +160,15 @@ Aplicação de clima com dica de vestimenta gerada por **IA**, busca por voz e i
 
 <br><br>
 
-<a href="https://github.com/gmclaraa/ClimaAI">
+<a href="https://github.com/gmclaraa/bikcraft">
 <img src="https://img.shields.io/badge/Código-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF">
 </a>
 
 &nbsp;
 
-<a href="https://clima-ai-blue.vercel.app/">
+<a href="https://bikcraft-lemon-two.vercel.app/">
 <img src="https://img.shields.io/badge/Ver_projeto-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF">
 </a>
-
-</td>
-
-<td width="50%" valign="top" align="center">
 
 </td>
 
