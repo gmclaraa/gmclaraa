@@ -123,6 +123,30 @@ Desenvolvido durante meus estudos na Origamid, explorando **HTML, CSS, JavaScrip
 
 <td width="50%" valign="top" align="center">
 
+<h2>Sistema de Cadastro de Usuários</h2>
+
+Aplicação Full Stack para cadastro, listagem e exclusão de usuários, integrada a uma API REST e banco de dados PostgreSQL.
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,postgresql,prisma&theme=dark" height="45">
+
+<br><br>
+
+<a href="https://github.com/gmclaraa/user_system">
+<img src="https://img.shields.io/badge/Código-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF">
+</a>
+
+&nbsp;
+
+<a href="https://user-system-klnu-p89yg53j2-clara-c5e1.vercel.app/">
+<img src="https://img.shields.io/badge/Ver_projeto-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF">
+</a>
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
 <h2>Clima AI</h2>
 
 Aplicação de clima com dica de vestimenta gerada por **IA**, busca por voz e integração com **OpenWeatherMap** e **Groq**.
@@ -140,30 +164,6 @@ Aplicação de clima com dica de vestimenta gerada por **IA**, busca por voz e i
 &nbsp;
 
 <a href="https://clima-ai-blue.vercel.app/">
-<img src="https://img.shields.io/badge/Ver_projeto-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF">
-</a>
-
-</td>
-
-<td width="50%" valign="top" align="center">
-
-<h2>Genius</h2>
-
-Clone do clássico jogo Genius (Simon), desenvolvido para praticar **manipulação do DOM, eventos e áudio** em JavaScript.
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="45">
-
-<br><br>
-
-<a href="https://github.com/gmclaraa/genius_game">
-<img src="https://img.shields.io/badge/Código-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF">
-</a>
-
-&nbsp;
-
-<a href="https://genius-game-qv2h.vercel.app/">
 <img src="https://img.shields.io/badge/Ver_projeto-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF">
 </a>
 
@@ -212,3 +212,4 @@ Clone do clássico jogo Genius (Simon), desenvolvido para praticar **manipulaç�
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:17151f,50:7C3AED,100:E879F9&height=140&section=footer">
 
 </div>
+
