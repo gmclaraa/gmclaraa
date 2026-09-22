@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=700&size=52&duration=3500&pause=1200&color=C084FC&center=true&vCenter=true&width=1000&height=90&lines=Oi%2C+eu+sou+a+Clara&repeat=false" />
@@ -70,17 +69,13 @@ Também desenvolvi o **ÂnimaScript**, uma extensão para Chrome criada a partir
 
 <h2>ÂnimaScript</h2>
 
-Extensão para Chrome criada a partir de uma necessidade real do meu trabalho, com o objetivo de automatizar uma tarefa do dia a dia.
+Extensão para Chrome criada a partir de uma necessidade real do meu trabalho, desenvolvida para automatizar tarefas e agilizar o atendimento.
 
-Desenvolvida com **HTML, CSS e JavaScript**, com apoio de vibecoding.
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="45">
+Desenvolvida com <strong>HTML, CSS e JavaScript</strong>, com apoio de vibecoding e mais de <strong>300 usuários</strong>.
 
 <br><br>
 
-<strong>+300 usuários</strong>
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="45">
 
 <br><br>
 
@@ -92,11 +87,13 @@ Desenvolvida com **HTML, CSS e JavaScript**, com apoio de vibecoding.
 
 <td width="50%" valign="top" align="center">
 
-<h2>✨ User System</h2>
+<h2>User System</h2>
 
-Sistema **Full Stack** para cadastro, listagem e exclusão de usuários, desenvolvido com React e integrado a uma API REST com Node.js, Express, Prisma e PostgreSQL.
+Sistema <strong>Full Stack</strong> para cadastro, listagem e exclusão de usuários, com integração entre Front-end, Back-end e banco de dados.
 
-<br>
+Desenvolvido com <strong>React, Node.js, Express, Prisma e PostgreSQL</strong>, utilizando uma API REST.
+
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,postgresql,prisma&theme=dark" height="45">
 
@@ -106,7 +103,7 @@ Sistema **Full Stack** para cadastro, listagem e exclusão de usuários, desenvo
 <img src="https://img.shields.io/badge/Código-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF">
 </a>
 
-&nbsp;
+ 
 
 <a href="https://user-system-klnu-p89yg53j2-clara-c5e1.vercel.app/">
 <img src="https://img.shields.io/badge/Ver_projeto-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF">
@@ -122,9 +119,11 @@ Sistema **Full Stack** para cadastro, listagem e exclusão de usuários, desenvo
 
 <h2>Clima AI</h2>
 
-Aplicação de clima com **IA integrada**, dica de vestimenta personalizada, busca por voz e consumo de **APIs externas**, utilizando OpenWeatherMap e Groq.
+Aplicação de previsão do tempo que combina informações climáticas com recursos de <strong>IA</strong> para oferecer sugestões personalizadas de vestimenta.
 
-<br>
+Desenvolvida com <strong>HTML, CSS e JavaScript</strong>, utilizando as APIs <strong>OpenWeatherMap e Groq</strong>, além de busca por voz.
+
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="45">
 
@@ -134,7 +133,7 @@ Aplicação de clima com **IA integrada**, dica de vestimenta personalizada, bus
 <img src="https://img.shields.io/badge/Código-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF">
 </a>
 
-&nbsp;
+ 
 
 <a href="https://clima-ai-blue.vercel.app/">
 <img src="https://img.shields.io/badge/Ver_projeto-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF">
@@ -146,11 +145,11 @@ Aplicação de clima com **IA integrada**, dica de vestimenta personalizada, bus
 
 <h2>Bikcraft</h2>
 
-Meu projeto mais completo de **Front-end** até o momento.
+Projeto de <strong>Front-end</strong> desenvolvido durante meus estudos na Origamid, com foco na construção de interfaces modernas e responsivas.
 
-Desenvolvido durante meus estudos na Origamid, explorando **HTML, CSS, JavaScript, responsividade e construção de interfaces**.
+Desenvolvido com <strong>HTML, CSS e JavaScript</strong>, explorando responsividade, organização visual e interações.
 
-<br>
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="45">
 
@@ -160,7 +159,7 @@ Desenvolvido durante meus estudos na Origamid, explorando **HTML, CSS, JavaScrip
 <img src="https://img.shields.io/badge/Código-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF">
 </a>
 
-&nbsp;
+ 
 
 <a href="https://bikcraft-lemon-two.vercel.app/">
 <img src="https://img.shields.io/badge/Ver_projeto-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF">
@@ -189,7 +188,7 @@ Desenvolvido durante meus estudos na Origamid, explorando **HTML, CSS, JavaScrip
 <img src="https://img.shields.io/badge/@gmclaraa-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF">
 </a>
 
-&nbsp;
+ 
 
 <a href="https://github.com/gmclaraa?tab=repositories">
 <img src="https://img.shields.io/badge/Ver_projetos-7C3AED?style=for-the-badge&logo=github&logoColor=FFFFFF">
@@ -198,6 +197,7 @@ Desenvolvido durante meus estudos na Origamid, explorando **HTML, CSS, JavaScrip
 <br><br>
 
 <img src="https://raw.githubusercontent.com/gmclaraa/gmclaraa/output/contributions.svg">
+
 </div>
 
 <br>
@@ -211,4 +211,3 @@ Desenvolvido durante meus estudos na Origamid, explorando **HTML, CSS, JavaScrip
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:17151f,50:7C3AED,100:E879F9&height=140&section=footer">
 
 </div>
-
