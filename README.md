@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=700&size=52&duration=3500&pause=1200&color=C084FC&center=true&vCenter=true&width=1000&height=90&lines=Oi%2C+eu+sou+a+Clara&repeat=false" />
@@ -91,42 +92,9 @@ Desenvolvida com **HTML, CSS e JavaScript**, com apoio de vibecoding.
 
 <td width="50%" valign="top" align="center">
 
-<h2>Clima AI</h2>
-
-Aplicação de clima com dica de vestimenta gerada por **IA**, busca por voz e integração com **OpenWeatherMap** e **Groq**.
-
-<br>
-
-<img src="https://img.shields.io/badge/IA_Integrada-C084FC?style=for-the-badge&logo=openai&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/API-7C3AED?style=for-the-badge&logo=fastapi&logoColor=FFFFFF">
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="45">
-
-<br><br>
-
-<a href="https://github.com/gmclaraa/ClimaAI">
-<img src="https://img.shields.io/badge/Código-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF">
-</a>
-
-&nbsp;
-
-<a href="https://clima-ai-blue.vercel.app/">
-<img src="https://img.shields.io/badge/Ver_projeto-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF">
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top" align="center">
-
 <h2>✨ User System</h2>
 
-Sistema Full Stack para **cadastro, listagem e exclusão de usuários**, desenvolvido com React e integrado a uma API REST com Node.js, Express e PostgreSQL.
+Sistema **Full Stack** para cadastro, listagem e exclusão de usuários, desenvolvido com React e integrado a uma API REST com Node.js, Express, Prisma e PostgreSQL.
 
 <br>
 
@@ -141,6 +109,34 @@ Sistema Full Stack para **cadastro, listagem e exclusão de usuários**, desenvo
 &nbsp;
 
 <a href="https://user-system-klnu-p89yg53j2-clara-c5e1.vercel.app/">
+<img src="https://img.shields.io/badge/Ver_projeto-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top" align="center">
+
+<h2>Clima AI</h2>
+
+Aplicação de clima com **IA integrada**, dica de vestimenta personalizada, busca por voz e consumo de **APIs externas**, utilizando OpenWeatherMap e Groq.
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="45">
+
+<br><br>
+
+<a href="https://github.com/gmclaraa/ClimaAI">
+<img src="https://img.shields.io/badge/Código-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF">
+</a>
+
+&nbsp;
+
+<a href="https://clima-ai-blue.vercel.app/">
 <img src="https://img.shields.io/badge/Ver_projeto-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF">
 </a>
 
