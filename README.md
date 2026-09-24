@@ -1,5 +1,5 @@
 <div align="center">
- 
+  
 <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=700&size=52&duration=3500&pause=1200&color=C084FC&center=true&vCenter=true&width=1000&height=90&lines=Oi%2C+eu+sou+a+Clara&repeat=false" />
 
 <br>
