@@ -117,31 +117,25 @@ Desenvolvido com <strong>React, Node.js, Express, Prisma e PostgreSQL</strong>, 
 
 <td width="50%" valign="top" align="center">
 
-<h2>Clima AI</h2>
+<h2>Buscador de CEP</h2>
 
-Aplicação de previsão do tempo que combina informações climáticas com recursos de <strong>IA</strong> para oferecer sugestões personalizadas de vestimenta.
+Aplicação que busca o endereço completo a partir de um CEP, consumindo a API pública <strong>ViaCEP</strong> em tempo real.
 
-Desenvolvida com <strong>HTML, CSS e JavaScript</strong>, utilizando as APIs <strong>OpenWeatherMap e Groq</strong>, além de busca por voz.
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="45">
+Desenvolvida com <strong>React e Vite</strong>, com interface responsiva e tratamento de erros.
 
 <br><br>
 
-<img src="https://img.shields.io/badge/AI-Groq-7C3AED?style=for-the-badge&logo=openai&logoColor=FFFFFF">
-
-<img src="https://img.shields.io/badge/API-OpenWeatherMap-17151f?style=for-the-badge&logo=cloudflare&logoColor=FFFFFF">
+<img src="https://skillicons.dev/icons?i=react,vite,js,css&theme=dark" height="45">
 
 <br><br>
 
-<a href="https://github.com/gmclaraa/ClimaAI">
+<a href="https://github.com/gmclaraa/cep_finder">
 <img src="https://img.shields.io/badge/Código-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF">
 </a>
 
 &nbsp;
 
-<a href="https://clima-ai-blue.vercel.app/">
+<a href="https://cep-finder-mu.vercel.app/">
 <img src="https://img.shields.io/badge/Ver_projeto-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF">
 </a>
 
