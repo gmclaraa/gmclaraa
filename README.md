@@ -117,7 +117,7 @@ Desenvolvido com <strong>React, Node.js, Express, Prisma e PostgreSQL</strong>, 
 
 <td width="50%" valign="top" align="center">
 
-<h2>Buscador de CEP</h2>
+<h2>CEP Finder</h2>
 
 Aplicação que busca o endereço completo a partir de um CEP, consumindo a API pública <strong>ViaCEP</strong> em tempo real.
 
