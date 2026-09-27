@@ -103,7 +103,7 @@ Desenvolvido com <strong>React, Node.js, Express, Prisma e PostgreSQL</strong>, 
 <img src="https://img.shields.io/badge/Código-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF">
 </a>
 
- 
+ 
 
 <a href="https://user-system-klnu-p89yg53j2-clara-c5e1.vercel.app/">
 <img src="https://img.shields.io/badge/Ver_projeto-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF">
@@ -117,11 +117,11 @@ Desenvolvido com <strong>React, Node.js, Express, Prisma e PostgreSQL</strong>, 
 
 <td width="50%" valign="top" align="center">
 
-<h2>CEP Finder</h2>
+<h2>Tomato</h2>
 
-Aplicação que busca o endereço completo a partir de um CEP, consumindo a API pública <strong>ViaCEP</strong> em tempo real.
+Aplicação de <strong>delivery de comida</strong>, com menu por categorias, carrinho de compras e finalização de pedido, utilizando gerenciamento de estado global e roteamento entre páginas.
 
-Desenvolvida com <strong>React e Vite</strong>, com interface responsiva e tratamento de erros.
+Desenvolvida com <strong>React, Vite e React Router</strong>, com interface responsiva.
 
 <br><br>
 
@@ -129,13 +129,13 @@ Desenvolvida com <strong>React e Vite</strong>, com interface responsiva e trata
 
 <br><br>
 
-<a href="https://github.com/gmclaraa/cep_finder">
+<a href="https://github.com/gmclaraa/tomato">
 <img src="https://img.shields.io/badge/Código-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF">
 </a>
 
 &nbsp;
 
-<a href="https://cep-finder-mu.vercel.app/">
+<a href="https://tomato-mu-seven.vercel.app/">
 <img src="https://img.shields.io/badge/Ver_projeto-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF">
 </a>
 
@@ -159,7 +159,7 @@ Desenvolvido com <strong>HTML, CSS e JavaScript</strong>, explorando responsivid
 <img src="https://img.shields.io/badge/Código-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF">
 </a>
 
- 
+ 
 
 <a href="https://bikcraft-lemon-two.vercel.app/">
 <img src="https://img.shields.io/badge/Ver_projeto-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF">
@@ -188,7 +188,7 @@ Desenvolvido com <strong>HTML, CSS e JavaScript</strong>, explorando responsivid
 <img src="https://img.shields.io/badge/@gmclaraa-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF">
 </a>
 
- 
+ 
 
 <a href="https://github.com/gmclaraa?tab=repositories">
 <img src="https://img.shields.io/badge/Ver_projetos-7C3AED?style=for-the-badge&logo=github&logoColor=FFFFFF">
