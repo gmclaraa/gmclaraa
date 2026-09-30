@@ -79,9 +79,7 @@ Desenvolvida com <strong>HTML, CSS e JavaScript</strong>, com apoio de vibecodin
 
 <br><br>
 
-<a href="https://chromewebstore.google.com/detail/animascript/doglihdookoginaidcnkandbkdkgphpf?hl=pt-BR">
-<img src="https://img.shields.io/badge/Chrome_Web_Store-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF">
-</a>
+<a href="https://chromewebstore.google.com/detail/animascript/doglihdookoginaidcnkandbkdkgphpf?hl=pt-BR"><img src="https://img.shields.io/badge/Chrome_Web_Store-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"></a>
 
 </td>
 
@@ -99,13 +97,8 @@ Desenvolvido com <strong>React, Node.js, Express, Prisma e PostgreSQL</strong>, 
 
 <br><br>
 
-<a href="https://github.com/gmclaraa/user_system">
-<img src="https://img.shields.io/badge/Código-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF">
-</a>
-&nbsp;
-<a href="https://user-system-klnu-p89yg53j2-clara-c5e1.vercel.app/">
-<img src="https://img.shields.io/badge/Ver_projeto-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF">
-</a>
+<a href="https://github.com/gmclaraa/user_system"><img src="https://img.shields.io/badge/Código-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF"></a>
+<a href="https://user-system-klnu-p89yg53j2-clara-c5e1.vercel.app/"><img src="https://img.shields.io/badge/Ver_projeto-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF"></a>
 
 </td>
 
@@ -127,13 +120,8 @@ Desenvolvida com <strong>React, Vite e React Router</strong>, com interface resp
 
 <br><br>
 
-<a href="https://github.com/gmclaraa/tomato">
-<img src="https://img.shields.io/badge/Código-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF">
-</a>
-&nbsp;
-<a href="https://tomato-mu-seven.vercel.app/">
-<img src="https://img.shields.io/badge/Ver_projeto-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF">
-</a>
+<a href="https://github.com/gmclaraa/tomato"><img src="https://img.shields.io/badge/Código-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF"></a>
+<a href="https://tomato-mu-seven.vercel.app/"><img src="https://img.shields.io/badge/Ver_projeto-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF"></a>
 
 </td>
 
@@ -151,13 +139,8 @@ Desenvolvido com <strong>HTML, CSS e JavaScript</strong>, explorando responsivid
 
 <br><br>
 
-<a href="https://github.com/gmclaraa/bikcraft">
-<img src="https://img.shields.io/badge/Código-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF">
-</a>
-&nbsp;
-<a href="https://bikcraft-lemon-two.vercel.app/">
-<img src="https://img.shields.io/badge/Ver_projeto-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF">
-</a>
+<a href="https://github.com/gmclaraa/bikcraft"><img src="https://img.shields.io/badge/Código-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF"></a>
+<a href="https://bikcraft-lemon-two.vercel.app/"><img src="https://img.shields.io/badge/Ver_projeto-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF"></a>
 
 </td>
 
@@ -178,15 +161,8 @@ Desenvolvido com <strong>HTML, CSS e JavaScript</strong>, explorando responsivid
 
 <br><br>
 
-<a href="https://github.com/gmclaraa">
-<img src="https://img.shields.io/badge/@gmclaraa-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF">
-</a>
-
-&nbsp;
-
-<a href="https://github.com/gmclaraa?tab=repositories">
-<img src="https://img.shields.io/badge/Ver_projetos-7C3AED?style=for-the-badge&logo=github&logoColor=FFFFFF">
-</a>
+<a href="https://github.com/gmclaraa"><img src="https://img.shields.io/badge/@gmclaraa-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF"></a>
+<a href="https://github.com/gmclaraa?tab=repositories"><img src="https://img.shields.io/badge/Ver_projetos-7C3AED?style=for-the-badge&logo=github&logoColor=FFFFFF"></a>
 
 <br><br>
 
