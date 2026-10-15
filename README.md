@@ -167,6 +167,10 @@ Desenvolvida com <strong>React, Vite e React Router</strong>, com interface resp
 
 <img src="https://raw.githubusercontent.com/gmclaraa/gmclaraa/output/contributions.svg">
 
+<br><br>
+
+<img src="https://raw.githubusercontent.com/gmclaraa/gmclaraa/snake/github-contribution-grid-snake-dark.svg" width="100%">
+
 </div>
 
 <br>
