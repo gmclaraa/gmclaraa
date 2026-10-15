@@ -85,6 +85,28 @@ Desenvolvida com <strong>HTML, CSS e JavaScript</strong>, com apoio de vibecodin
 
 <td width="50%" valign="top" align="center">
 
+<h2>Conversor de Moedas</h2>
+
+Aplicativo <strong>mobile</strong> de conversão de moedas em tempo real, com seleção de moedas, inversão entre origem e destino e exibição da taxa de câmbio.
+
+Desenvolvido com <strong>React Native, Expo e JavaScript</strong>, consumindo uma API REST de câmbio.
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,js&theme=dark" height="45">
+
+<br><br>
+
+<a href="https://github.com/gmclaraa/currency-converter-app"><img src="https://img.shields.io/badge/Código-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF"></a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top" align="center">
+
 <h2>User System</h2>
 
 Sistema <strong>Full Stack</strong> para cadastro, listagem e exclusão de usuários, com integração entre Front-end, Back-end e banco de dados.
@@ -102,10 +124,6 @@ Desenvolvido com <strong>React, Node.js, Express, Prisma e PostgreSQL</strong>, 
 
 </td>
 
-</tr>
-
-<tr>
-
 <td width="50%" valign="top" align="center">
 
 <h2>Tomato</h2>
@@ -122,25 +140,6 @@ Desenvolvida com <strong>React, Vite e React Router</strong>, com interface resp
 
 <a href="https://github.com/gmclaraa/tomato"><img src="https://img.shields.io/badge/Código-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF"></a>
 <a href="https://tomato-mu-seven.vercel.app/"><img src="https://img.shields.io/badge/Ver_projeto-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF"></a>
-
-</td>
-
-<td width="50%" valign="top" align="center">
-
-<h2>Bikcraft</h2>
-
-Projeto de <strong>Front-end</strong> desenvolvido durante meus estudos na Origamid, com foco na construção de interfaces modernas e responsivas.
-
-Desenvolvido com <strong>HTML, CSS e JavaScript</strong>, explorando responsividade, organização visual e interações.
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="45">
-
-<br><br>
-
-<a href="https://github.com/gmclaraa/bikcraft"><img src="https://img.shields.io/badge/Código-17151f?style=for-the-badge&logo=github&logoColor=FFFFFF"></a>
-<a href="https://bikcraft-lemon-two.vercel.app/"><img src="https://img.shields.io/badge/Ver_projeto-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF"></a>
 
 </td>
 
